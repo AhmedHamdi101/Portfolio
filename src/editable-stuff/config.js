@@ -10,7 +10,7 @@ const mainBody = {
   firstName: "Ahmed",
   middleName: "",
   lastName: "Hamdi",
-  message: " Passionate about changing the world with technology. ",
+  message: " Passionate about changing the world with AI. ",
   icons: [
     {
       image: "fa-github",
@@ -55,7 +55,7 @@ const about = {
   imageLink: require("../editable-stuff/ahmedhamdi2.jpg"),
   imageSize: 250,
   message:
-    "My name is Ahmed Hamdi. I’m a graduate of 2021 from Faculty of Engineering, Alexandria University with a degree in Computer Engineering. I'm most passionate about exploring new fields and learn new technologies, and my goal is to pursue this passion within the field of deep learning specialy computer vision. In my free time I like working on implementing papers related to the fields I am intersted in and solve problems on leet code.",
+    "My name is Ahmed Hamdi. I’m a graduate of 2021 from Faculty of Engineering, Alexandria University with a degree in Computer Engineering. I'm most passionate about exploring new fields and learn new technologies, and my goal is to pursue this passion within the field of deep learning specialy computer vision. In my free time I like working on implementing papers related to the fields I am intersted in and solve problems on leetcode.",
   resume: "https://drive.google.com/file/d/1EwHTAKZPMPTmHr_Hgj_S4Wfwm89JBJ5W/view?usp=sharing",
 };
 
@@ -130,25 +130,31 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Python", value: 80 },
-    { name: "TensorFlow/Keras", value: 65 },
-    { name: "C", value: 65 },
-    { name: "Data Structures/Algorithms", value: 70 },
-	{ name: "Java", value: 50 },
+
+	{ name: "Deep Learning / Computer vision" },
+    { name: "Reinforcement Learning"},
+	{ name: "TensorFlow / Keras / OpenCV"},
+	{ name: "Numpy / Pandas"},	
+	
+    { name: "Python" },
+	{ name: "Object Oriented Progamming" },
+    { name: "Java / C" },
+	{ name: "Data Structures / Algorithms" },
+	
     //{ name: "JavaScript", value: 90 },
     //{ name: "React", value: 65 },
     //{ name: "HTML/CSS", value: 55 },
     //{ name: "C#", value: 80 },
   ],
   softSkills: [
-    { name: "Goal-Oriented", value: 85 },
-    { name: "Collaboration", value: 90 },
-    { name: "Adaptability", value: 85 },
-	
-    { name: "Problem Solving", value: 70 },
-    { name: "Organization", value: 75 },
-	{name: "Eagrness To Learn", value: 120},
+    { name: "JavaScript"},
+    { name: "React.js" },
+    { name: "Express.js / Node.js" },
+    { name: "HTML / CSS" },
+    { name: "MySQL" },
+	{name: "C#"},
   ],
+
 };
 
 // GET IN TOUCH SECTION
