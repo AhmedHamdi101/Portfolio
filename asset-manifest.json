@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.82458425.chunk.css",
-    "main.js": "/home/static/js/main.feb164ac.chunk.js",
-    "main.js.map": "/home/static/js/main.feb164ac.chunk.js.map",
-    "runtime-main.js": "/home/static/js/runtime-main.3c590061.js",
-    "runtime-main.js.map": "/home/static/js/runtime-main.3c590061.js.map",
-    "static/js/2.4fc7f5be.chunk.js": "/home/static/js/2.4fc7f5be.chunk.js",
-    "static/js/2.4fc7f5be.chunk.js.map": "/home/static/js/2.4fc7f5be.chunk.js.map",
-    "index.html": "/home/index.html",
-    "precache-manifest.adf5c22fafdca4fc23be06541d809e48.js": "/home/precache-manifest.adf5c22fafdca4fc23be06541d809e48.js",
-    "service-worker.js": "/home/service-worker.js",
-    "static/css/main.82458425.chunk.css.map": "/home/static/css/main.82458425.chunk.css.map",
-    "static/js/2.4fc7f5be.chunk.js.LICENSE.txt": "/home/static/js/2.4fc7f5be.chunk.js.LICENSE.txt",
-    "static/media/ahmedhamdi2.jpg": "/home/static/media/ahmedhamdi2.d6f495a7.jpg",
-    "static/media/gradteam.jpg": "/home/static/media/gradteam.a98c7998.jpg",
-    "static/media/monodepth.jpg": "/home/static/media/monodepth.73f53b4a.jpg",
-    "static/media/resume.pdf": "/home/static/media/resume.4e0a9d86.pdf",
-    "static/media/yolo.jpg": "/home/static/media/yolo.64bfb172.jpg"
+    "main.css": "/website/static/css/main.82458425.chunk.css",
+    "main.js": "/website/static/js/main.76811972.chunk.js",
+    "main.js.map": "/website/static/js/main.76811972.chunk.js.map",
+    "runtime-main.js": "/website/static/js/runtime-main.d57c616e.js",
+    "runtime-main.js.map": "/website/static/js/runtime-main.d57c616e.js.map",
+    "static/js/2.4fc7f5be.chunk.js": "/website/static/js/2.4fc7f5be.chunk.js",
+    "static/js/2.4fc7f5be.chunk.js.map": "/website/static/js/2.4fc7f5be.chunk.js.map",
+    "index.html": "/website/index.html",
+    "precache-manifest.16d1ae9c780400bf07c8e5ab3f7e61ca.js": "/website/precache-manifest.16d1ae9c780400bf07c8e5ab3f7e61ca.js",
+    "service-worker.js": "/website/service-worker.js",
+    "static/css/main.82458425.chunk.css.map": "/website/static/css/main.82458425.chunk.css.map",
+    "static/js/2.4fc7f5be.chunk.js.LICENSE.txt": "/website/static/js/2.4fc7f5be.chunk.js.LICENSE.txt",
+    "static/media/ahmedhamdi2.jpg": "/website/static/media/ahmedhamdi2.d6f495a7.jpg",
+    "static/media/gradteam.jpg": "/website/static/media/gradteam.a98c7998.jpg",
+    "static/media/monodepth.jpg": "/website/static/media/monodepth.73f53b4a.jpg",
+    "static/media/resume.pdf": "/website/static/media/resume.4e0a9d86.pdf",
+    "static/media/yolo.jpg": "/website/static/media/yolo.64bfb172.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c590061.js",
+    "static/js/runtime-main.d57c616e.js",
     "static/js/2.4fc7f5be.chunk.js",
     "static/css/main.82458425.chunk.css",
-    "static/js/main.feb164ac.chunk.js"
+    "static/js/main.76811972.chunk.js"
   ]
 }
