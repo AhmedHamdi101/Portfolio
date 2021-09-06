@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.82458425.chunk.css",
-    "main.js": "/Portfolio/static/js/main.37aa1dcf.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.37aa1dcf.chunk.js.map",
-    "runtime-main.js": "/Portfolio/static/js/runtime-main.d4446722.js",
-    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.d4446722.js.map",
-    "static/js/2.4fc7f5be.chunk.js": "/Portfolio/static/js/2.4fc7f5be.chunk.js",
-    "static/js/2.4fc7f5be.chunk.js.map": "/Portfolio/static/js/2.4fc7f5be.chunk.js.map",
-    "index.html": "/Portfolio/index.html",
-    "precache-manifest.2fdaa345eb99f9eac40c046bd5baa1fa.js": "/Portfolio/precache-manifest.2fdaa345eb99f9eac40c046bd5baa1fa.js",
-    "service-worker.js": "/Portfolio/service-worker.js",
-    "static/css/main.82458425.chunk.css.map": "/Portfolio/static/css/main.82458425.chunk.css.map",
-    "static/js/2.4fc7f5be.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.4fc7f5be.chunk.js.LICENSE.txt",
-    "static/media/ahmedhamdi2.jpg": "/Portfolio/static/media/ahmedhamdi2.d6f495a7.jpg",
-    "static/media/gradteam.jpg": "/Portfolio/static/media/gradteam.a98c7998.jpg",
-    "static/media/monodepth.jpg": "/Portfolio/static/media/monodepth.73f53b4a.jpg",
-    "static/media/resume.pdf": "/Portfolio/static/media/resume.4e0a9d86.pdf",
-    "static/media/yolo.jpg": "/Portfolio/static/media/yolo.64bfb172.jpg"
+    "main.css": "/portfolio/static/css/main.82458425.chunk.css",
+    "main.js": "/portfolio/static/js/main.081d96c8.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.081d96c8.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.75c69042.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.75c69042.js.map",
+    "static/js/2.4fc7f5be.chunk.js": "/portfolio/static/js/2.4fc7f5be.chunk.js",
+    "static/js/2.4fc7f5be.chunk.js.map": "/portfolio/static/js/2.4fc7f5be.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.beea6f2c204fbfb61aaff2cc61755765.js": "/portfolio/precache-manifest.beea6f2c204fbfb61aaff2cc61755765.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.82458425.chunk.css.map": "/portfolio/static/css/main.82458425.chunk.css.map",
+    "static/js/2.4fc7f5be.chunk.js.LICENSE.txt": "/portfolio/static/js/2.4fc7f5be.chunk.js.LICENSE.txt",
+    "static/media/ahmedhamdi2.jpg": "/portfolio/static/media/ahmedhamdi2.d6f495a7.jpg",
+    "static/media/gradteam.jpg": "/portfolio/static/media/gradteam.a98c7998.jpg",
+    "static/media/monodepth.jpg": "/portfolio/static/media/monodepth.73f53b4a.jpg",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.4e0a9d86.pdf",
+    "static/media/yolo.jpg": "/portfolio/static/media/yolo.64bfb172.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d4446722.js",
+    "static/js/runtime-main.75c69042.js",
     "static/js/2.4fc7f5be.chunk.js",
     "static/css/main.82458425.chunk.css",
-    "static/js/main.37aa1dcf.chunk.js"
+    "static/js/main.081d96c8.chunk.js"
   ]
 }
