@@ -52,7 +52,7 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/ahmedhamdi2.png"),
+  imageLink: require("../editable-stuff/ahmedhamdi2.jpg"),
   imageSize: 250,
   message:
     "My name is Ahmed Hamdi. I’m a graduate of 2021 from Faculty of Engineering, Alexandria University with a degree in Computer Engineering. I'm most passionate about exploring new fields and learn new technologies, and my goal is to pursue this passion within the field of deep learning specialy computer vision. In my free time I like working on implementing papers related to the fields I am intersted in and solve problems on leet code.",
@@ -79,17 +79,17 @@ const leadership = {
     "Our project consisted of two main phases, The Computer Vision Phase in which we used 2D object detection model YOLO V3 to detect all objects in front of the car and a self supervised mono-depth estimation to calculate the relative distances of the detected objects, The Reinforcement Phase, in which we take the data from the first phase in the form of a state for the RL agent, a Deep Q-learning Model, and calculate the best action for the given state.",
   images: [
     { 
-      img: require("../editable-stuff/yolo.png"), 
+      img: require("../editable-stuff/yolo.jpg"), 
       label: "YOLO V3", 
       paragraph: "The Yolo v3 model used in detection and classification." ,
 	  },
     { 
-      img: require("../editable-stuff/monodepth.png"), 
+      img: require("../editable-stuff/monodepth.jpg"), 
       label: "Monodepth", 
       paragraph: "The Monodepth used to estimate the depth of object using only one RGB photo." 
     },
     { 
-      img: require("../editable-stuff/gradteam.png"), 
+      img: require("../editable-stuff/gradteam.jpg"), 
       label: "My Team", 
       paragraph: "" 
 		
@@ -109,12 +109,12 @@ const temp = {
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae auctor eu augue ut lectus arcu bibendum at varius. Libero justo laoreet sit amet cursus sit amet. Imperdiet dui accumsan sit amet nulla facilisi morbi. At auctor urna nunc id. Iaculis urna id volutpat lacus laoreet non curabitur gravida. Et magnis dis parturient montes nascetur ridiculus mus mauris. In nisl nisi scelerisque eu ultrices vitae auctor. Mattis nunc sed blandit libero volutpat sed cras ornare. Pulvinar neque laoreet suspendisse interdum consectetur libero.",
   images: [
     { 
-      img: require("../editable-stuff/ahmedhamdi2.png"), 
+      img: require("../editable-stuff/ahmedhamdi2.jpg"), 
       label: "First slide label", 
       paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
     },
     { 
-      img: require("../editable-stuff/ahmedhamdi2.png"), 
+      img: require("../editable-stuff/ahmedhamdi2.jpg"), 
       label: "Second slide label", 
       paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
     },
